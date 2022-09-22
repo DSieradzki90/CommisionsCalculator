@@ -40,7 +40,6 @@ public class MessageReceiver {
                 "http://localhost:8080/prices/",
                 priceList,
                 Price.class);
-
         return priceList;
     }
 
